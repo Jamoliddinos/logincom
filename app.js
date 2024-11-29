@@ -50,7 +50,7 @@ document.getElementById("searchBtn").addEventListener("click", function () {
             <button class="copy-btn" onclick="copyParol()">Parolni nusxa olish</button>
         `;
     } else {
-        resultDiv.innerHTML = `<p>Ma'lumot topilmadi! Agar yordam kerak bo'lsa Dasturchi bilan bog'laning <b style="color: red;">Tug'ilgan kuningiz kundalik kom bazasida xato bo'lishi mumkin<b> <br> <a href="https://t.me/jamolidd1nov___">Dasturchi</a></p>`;
+        resultDiv.innerHTML = `<p>Ma'lumot topilmadi! Agar yordam kerak bo'lsa Dasturchi bilan bog'laning <b style="color: red;">Tug'ilgan kuningiz kundalik kom bazasida xato bo'lishi mumkin<b> <br> <a href="http://t.me/jamolidd1nov_08" target="_blank" rel="noopener noreferrer">Dasturchi</a></p>`;
     }
 });
 
