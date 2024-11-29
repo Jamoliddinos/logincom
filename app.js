@@ -60,7 +60,7 @@ function copyLogin() {
 
     navigator.clipboard.writeText(login).then(() => {
         
-    }).catch(err => {
+    }).catch(err =>  {
         console.error("Nusxa olishda xatolik: ", err);
     });
 }
